@@ -7,6 +7,8 @@ Senior Backend / AI Engineer based in Granada, Spain. I've spent 5 years buildin
 - ☁️ **Cloud & DevOps:** Azure + Terraform across four environments, AWS, Docker, GitHub Actions
 - 🖥️ **Full-stack when needed:** Angular, React, TypeScript
 
+📄 Co-author of *[Fast computation of fractal dimension for 2D, 3D and 4D data](https://doi.org/10.1016/j.jocs.2022.101908)* (Journal of Computational Science, 2023): GPU box-counting in CUDA, up to 92× faster than sequential CPU · [code](https://www.ugr.es/~demiras/fbc)
+
 Most of my professional work lives in private client repositories; what's public here is what I build on my own time.
 
 📫 [LinkedIn](https://www.linkedin.com/in/miguelposadas)
